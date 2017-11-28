@@ -1,8 +1,8 @@
 {
   "_from": "github:js-dist-paritytech/dapp-dapp-methods",
-  "_id": "@parity/dapp-dapp-methods@2.0.4",
+  "_id": "@parity/dapp-dapp-methods@2.0.6",
   "_inBundle": false,
-  "_integrity": "sha1-BM9w2wod39IuzDbSIMIhE2PEYX8=",
+  "_integrity": "sha1-c1xjb56GRgLXG4ZMsHE76VC3jQ4=",
   "_location": "/@parity/dapp-dapp-methods",
   "_phantomChildren": {
     "babel-runtime": "6.26.0",
@@ -29,7 +29,7 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "github:js-dist-paritytech/dapp-dapp-methods#87254800e0142627d81314143c439065fb5428f0",
+  "_resolved": "github:js-dist-paritytech/dapp-dapp-methods#eb583c91c657d60767fa47b7a97aba76d9535e76",
   "_spec": "@parity/dapp-dapp-methods@github:js-dist-paritytech/dapp-dapp-methods",
   "_where": "/builds/parity/parity/js",
   "author": {
@@ -69,7 +69,9 @@
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}",
       "!<rootDir>/node_modules/",
-      "!src/registerServiceWorker.js"
+      "!src/index.js",
+      "!src/registerServiceWorker.js",
+      "!src/setupTests.js"
     ]
   },
   "keywords": [],
@@ -97,5 +99,5 @@
     "test": "react-scripts test --env=jsdom",
     "watch": "node scripts/watch.js"
   },
-  "version": "2.0.4"
+  "version": "2.0.6"
 }
