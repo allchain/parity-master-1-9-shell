@@ -2,7 +2,7 @@
   "_from": "github:js-dist-paritytech/dapp-dapp-methods",
   "_id": "@parity/dapp-dapp-methods@2.0.6",
   "_inBundle": false,
-  "_integrity": "sha1-P7o0KWGKSXwvXVJkQeQPIi+udOo=",
+  "_integrity": "sha1-c1xjb56GRgLXG4ZMsHE76VC3jQ4=",
   "_location": "/@parity/dapp-dapp-methods",
   "_phantomChildren": {
     "babel-runtime": "6.26.0",
