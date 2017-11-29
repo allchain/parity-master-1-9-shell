@@ -2,7 +2,7 @@
   "_from": "github:js-dist-paritytech/dapp-dapp-visible",
   "_id": "@parity/dapp-dapp-visible@2.0.1",
   "_inBundle": false,
-  "_integrity": "sha1-Y8rldjpM2eDtyRnzzRK2F3M31/E=",
+  "_integrity": "sha1-Av0EWVQRwRfD3KvfUvcR32ixf2c=",
   "_location": "/@parity/dapp-dapp-visible",
   "_phantomChildren": {
     "babel-runtime": "6.26.0",
